@@ -11,17 +11,11 @@ bossbar-text: '§cСервер находится на стадии тестир
 lobby-scoreboard-title: '§6§lDesirex'
 lobby-scoreboard-lines:
 - ''
-- '§bИнформация:'
 - ' §fСтатус: {rank}'
+- ''
 - ' §fМонеток: §b{money}'
 - ' §fТекущий уровень: §a{level}'
-- ' §fПрогресс: §a{curXP}§f/§c{needXP}'
 - ''
-- '§bДополнительно:'
-- ' §fСервер: §a{server}'
-- ' §fИгроков: §f156'
-- ''
-- '§bНаш сайт:'
 - ' §6desirex.net'
 
 lobby-items-menu-title: '§aНавигатор §7[ПКМ]'
@@ -223,8 +217,8 @@ profilemenu-levels-lore:
 - ' §7который необходим для повышения'
 - ' §7уровня и получения новых наград'
 - ''
-- ' §7Прогресс: §a{currentXP} '
-- ' §7До повышения уровня: §b{needXP}'
+- ' §fПрогресс: §a{progress} §3{percent}'
+- ' §fДо повышения уровня: §b{needXP}'
 - ''
 - '§e▸ Нажмите, чтобы просмотреть список наград'
 
@@ -245,7 +239,7 @@ languagemenu-russian-lore:
 - ''
 - '§e▸ Нажмите, чтобы применить'
 
-languagemenu-english-title: '§bEnglish'
+languagemenu-english-title: '§bАнглийский'
 languagemenu-english-lore: 
 - ' §7После применения, весь сервер'
 - ' §7будет адаптирован под §aанглийский язык'
