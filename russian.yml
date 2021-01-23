@@ -11,10 +11,12 @@ bossbar-text: '§cСервер находится на стадии тестир
 lobby-scoreboard-title: '§6§lDesirex'
 lobby-scoreboard-lines:
 - ''
+- '§7Информация:'
 - ' §fСтатус: {rank}'
 - ''
-- ' §fМонеток: §b{money}'
-- ' §fТекущий уровень: §a{level}'
+- '§7Статистика:'
+- ' §fМонеток: §a{money}'
+- ' §fТекущий уровень: §b{level}'
 - ''
 - ' §6desirex.net'
 
