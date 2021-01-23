@@ -175,6 +175,7 @@ donatemenu-redstoneplus-lore:
 - ''
 
 donate-click-message: '§6Desirex §8| §fПриобрести привилегию можно на нашем сайте — §6www.desirex.net'
+build-command-restriced: '§6Desirex §8| §fДанная команда доступна только для §2строителей'
 
 profilemenu-title: 'Профиль'
 profilemenu-head-title: '§aПерсональная информация'
