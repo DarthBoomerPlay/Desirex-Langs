@@ -436,25 +436,25 @@ gadgetsmenu-gadget-cooldown: '§d§lJETRIX §8| §fВы сможете испо�
 gadgetsmenu-equip: '§d§lJETRIX §8| §fВы экипировали {gadget}'
 gadgetsmenu-dequip: '§d§lJETRIX §8| §fВы убрали {gadget}'
 
-nickbook-nick: '§d§lJETRIX §8| §fТеперь вы: §a{fake}'
-nickbook-unnick: '§d§lJETRIX §8| §fВы вернули свой ник'
+nickbook-nick: '§6Desirex §8| §fВаш никнейм спрятан, теперь вы §a{fake}'
+nickbook-unnick: '§6Desirex §8| §fВаш никнейм возвращен'
 
-nickbook-menuG-title: 'Выберите првиилегию'
-nickbook-menuP-title: 'Выберите тип ника'
+nickbook-menuG-title: 'Выберите ранг'
+nickbook-menuP-title: 'Выберите тип никнейма'
 
-nickbook-select: '§eНажмите, чтобы выбрать!'
+nickbook-select: '§e▸ Нажмите, чтобы выбрать'
 
-nickbook-menuB-custom-lore: '§cТребуется §c[§fYOUTUBE§4+§c]'
-nickbook-menuB-custom: 'Установить ник самому'
-nickbook-menuB-random: 'Установить случайный ник'
+nickbook-menuB-custom-lore: '§cНедостаточно прав'
+nickbook-menuB-custom: 'Установить никнейм вручную'
+nickbook-menuB-random: 'Установить рандомный никнейм'
 
 nickbook-sign-lines:
 - ''
 - '^^^^^^^^^^^^^^^'
-- 'Введите нужный'
-- 'вам ник'
+- 'Введите желаемый'
+- 'никнейм'
 
-lobby-donater-join: '{player} §aзашел на сервер'
+lobby-donater-join: ' §a▸ {player} §aприсоединился к серверу'
 
 treasure-bossbar-text: '§fОсталось §a{sec} §fсекунд'
 
