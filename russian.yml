@@ -286,7 +286,7 @@ gadgetsmenu-cancel-lore:
 - ''
 - '§eНажмите, чтобы выбрать!'
 
-gadgetsmenu-cancel-msg: '§6Desirex §8| §fВся персонализация была убрана'
+gadgetsmenu-cancel-msg: '§6Desirex §8| §fВся персонализация была отключена'
 
 gadgetsmenu-coins-title: '§aГаджеты'
 gadgetsmenu-coins-lore:
@@ -432,7 +432,7 @@ gadgetsmenu-gadgetmenu-pkm: '§7(ПКМ)'
 gadgetsmenu-gadget-cooldown: '§6Desirex §8| §fВы сможете снова использовать это через §a{s} сек.'
 
 gadgetsmenu-equip: '§6Desirex §8| §fВы активировали персонализацию: {gadget}'
-gadgetsmenu-dequip: '§6Desirex §8| §fВы убрали персонализацию: {gadget}'
+gadgetsmenu-dequip: '§6Desirex §8| §fВы отключили персонализацию: {gadget}'
 
 nickbook-nick: '§6Desirex §8| §fВаш никнейм спрятан, теперь вы §a{fake}'
 nickbook-unnick: '§6Desirex §8| §fВаш никнейм возвращен'
