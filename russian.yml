@@ -345,24 +345,26 @@ gadgetsmenu-costumes-lore:
 - '§e▸ Нажмите, чтобы открыть меню миниатюрок'
 
 gadgetsmenu-status-not:
-- '§eПолучить эту персонализацию'
-- '§eможно из §bСундуков удачи§e.'
+- '§8Заблокировано'
 - ''
-- '§cУ вас нет данной персонализации!'
+- ' §fПолучить данную персонализацию'
+- ' §fможно из §bСундуков удачи'
+- ''
+- '§cДанная персонализация у Вас отсутствует'
 gadgetsmenu-status-change:
-- '§e▸ Нажмите, чтобы выбрать!'
+- '§e▸ Нажмите, чтобы выбрать'
 gadgetsmenu-status-have:
-- '§c▸ Нажмите, чтобы убрать!'
+- '§c▸ Нажмите, чтобы убрать'
 
 gadgetsmenu-example-lore:
 - ''
-- '§7Редкость: {rare}'
+- ' §7Редкость: {rare}'
 - ''
 
-gadgetsmenu-rarity-common: '§aОБЫЧНЫЙ'
-gadgetsmenu-rarity-rare: '§bРЕДКИЙ'
-gadgetsmenu-rarity-epic: '§5ЭПИЧЕСКИЙ'
-gadgetsmenu-rarity-legendary: '§6ЛЕГЕНДАРНЫЙ'
+gadgetsmenu-rarity-common: '§a§lОБЫЧНЫЙ'
+gadgetsmenu-rarity-rare: '§b§lРЕДКИЙ'
+gadgetsmenu-rarity-epic: '§5§lЭПИЧЕСКИЙ'
+gadgetsmenu-rarity-legendary: '§6§lЛЕГЕНДАРНЫЙ'
 
 gadgetsmenu-pets-cat-title: 'Кот'
 gadgets-pets-cat-customname: '§aКот {player}'
