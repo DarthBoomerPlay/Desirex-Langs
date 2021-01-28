@@ -931,3 +931,5 @@ stickduels-lobby-spec-i-not: '§cДанная игра уже закончила
 stickduels-lobby-play-start: '§cВ данный момент все доступные серера заняты!'
 
 stickduels-game-coins-kill: '§e+ {c} монет'
+
+stickduels-game-spectator-chat: '§cВо время наблюдения вы не можете общаться в чате!'
